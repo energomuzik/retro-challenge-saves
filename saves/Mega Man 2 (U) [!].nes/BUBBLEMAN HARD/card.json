@@ -1,0 +1,11 @@
+{
+  "format": 2,
+  "game": "Mega Man 2 (U) [!].nes",
+  "name": "BUBBLEMAN HARD",
+  "kind": "boss",
+  "slot": 24,
+  "createdAt": 1794303183583,
+  "exportedAt": 1794310823299,
+  "app": "0.182.0",
+  "file": "save.state"
+}

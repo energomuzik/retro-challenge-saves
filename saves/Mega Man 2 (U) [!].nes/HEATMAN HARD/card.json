@@ -1,0 +1,11 @@
+{
+  "format": 2,
+  "game": "Mega Man 2 (U) [!].nes",
+  "name": "HEATMAN HARD",
+  "kind": "boss",
+  "slot": 20,
+  "createdAt": 1794293185014,
+  "exportedAt": 1794310823299,
+  "app": "0.182.0",
+  "file": "save.state"
+}

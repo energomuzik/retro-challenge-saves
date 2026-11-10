@@ -1,0 +1,11 @@
+{
+  "format": 2,
+  "game": "Mega Man 2 (U) [!].nes",
+  "name": "QUICKMAN HARD",
+  "kind": "boss",
+  "slot": 22,
+  "createdAt": 1794296366278,
+  "exportedAt": 1794310823299,
+  "app": "0.182.0",
+  "file": "save.state"
+}

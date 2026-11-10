@@ -1,0 +1,11 @@
+{
+  "format": 2,
+  "game": "Mega Man 2 (U) [!].nes",
+  "name": "CRASHMAN HARD",
+  "kind": "boss",
+  "slot": 27,
+  "createdAt": 1794310411516,
+  "exportedAt": 1794310823299,
+  "app": "0.182.0",
+  "file": "save.state"
+}

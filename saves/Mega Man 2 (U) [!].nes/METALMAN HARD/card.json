@@ -1,0 +1,11 @@
+{
+  "format": 2,
+  "game": "Mega Man 2 (U) [!].nes",
+  "name": "METALMAN HARD",
+  "kind": "boss",
+  "slot": 25,
+  "createdAt": 1794304364504,
+  "exportedAt": 1794310823299,
+  "app": "0.182.0",
+  "file": "save.state"
+}
